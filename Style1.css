@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    background-color: darkviolet;
+    justify-content: center;
+
+}
+a{
+    text-decoration: none;
+    text-decoration-color: grey;
+}
+a:hover{
+    font-size: 60px;
+    color: khaki;
+    }
